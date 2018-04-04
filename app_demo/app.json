@@ -1,0 +1,11 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/posts/post",
+    "pages/posts/post-detail/post-detail"
+  ],
+  "window": {
+    "navigationBarBackgroundColor": "#405f80",
+    "navigationBarTitleText": "小程序"
+  }
+}
